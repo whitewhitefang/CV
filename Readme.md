@@ -1,6 +1,7 @@
-# Igor Belozub
+## Igor Belozub
 
 ![](ib.jpeg)
+
 
 ## Contacts
 
@@ -20,39 +21,55 @@ Phones:
 
 ## About me
 
-Full-stack programmer with journalist's background. Backend is mostly on Ruby and Ruby-on-Rails. Databases - MySQL, PostgreSQL. Frontend - React, vanilla HTML/JS, SCSS. Good analyst, multitasker and attentive to details as well. 
+Full-stack programmer with journalist's background. Backend on Ruby-on-Rails mostly. Databases - MySQL, PostgreSQL. Frontend - React, vanilla HTML/JS, Sass. Good analyst, multitasker and attentive to details as well. 
 
 
 ## Experience
 
-2023.1.1 - till now - investment consulting company CFR (USA). Full stack developer.
+**2023.1.1 - till now** Investment consulting company CFR (USA). Full stack developer.
 
-Responsibilities: Database requests enhancement. Third-party services integrating. Bug fixing. Adding new features. Refactoring. Writing specs. Excel add-ins development (power BI queries, VBA and language M scripts). Updating docs.
+Optimized MySQL performance by analizing slow queries, beeng ensure that indexes are using properly, using special monitoring systems like New Relic, tuning complex queries.
+
+Built separate application to store Zendesk chat data using cron and sidekiq.
+
+Extended API functionality by emproving existing and adding new endpoints and features, optimized API calls.
+
+Developed Excel add-in to get data from API through Power Query technology (VBA macroses, language M). 
+
+Updated and deployed API documentation on third-party service side.
+
+Established comprehensive test coverage by writing all kind of specs.
+
+Embeded security elements such as Brakeman and monitoring like New Relic in CI/CD processes. Deployed application code to staging and prod.
+
+Added new features like auto-generated daily statistic report.
 
 
 ## Skills
 
 - Ruby, Ruby-on-Rails
-- HTML, CSS, SCSS/SASS, Bootstrap
+- HTML, CSS, SCSS/SASS, Bootstrap, Tailwind
 - JavaScript, React, Node, Express, Redux
-- SQL (MySQL, PostgreSQL), MongoDB
-- Microsoft Azure Cloud, Yandex Cloud, Postman, Figma, Photoshop
+- Haml, Pug, Handlebars, Slim
+- SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- Microsoft Azure Cloud, Yandex Cloud, Postman, Figma
 - PHP, WordPress
-- Github/Gitlab, Monitoring (New Relic), CI/CD (Github Actions), Ansible
-- Docker
-- Linux, Windows, bash & shell scripting
-- VBA, M language (MS PQ)
+- Github/Gitlab, Monitoring (New Relic), CI/CD, Ansible
+- Docker, Docker Compose
+- Linux, Windows, Bash & PowerShell scripts
+- VBA, M language
 
 
 ## Education
 
 - 2023 Hexlet devops course
 - 2021 Microsoft Azure cloud architect course
-- 2008-2010 Intensive English language courses (Toronto, New-York)
+- 2008 LINC English language off-line full-time school (Toronto, Canada)
+- 2009 Intensive off-line English language course (New-York, USA)
 - 1999 Far-Eastern State University, bachelor degree (journalism, diploma work "Internet as a mass media")
 
 
-#### Languages
+## Languages
 
 - Russian (native)
 - English (B2)
@@ -61,4 +78,4 @@ Responsibilities: Database requests enhancement. Third-party services integratin
 
 ## Portfolio
 
-There are some study and pet project's repos in [my github account](https://github.com/whitewhitefang)
+There are some study and pet projects' repos in [my github account](https://github.com/whitewhitefang)
