@@ -1,0 +1,2 @@
+```pandoc Readme.md --variable=fontfamily:"crimson" --variable=pagestyle:"empty" -o IgorBelozubCVf.pdf -V classoption=twocolumn -V geometry:"top=20m
+m, left=16mm, right=16mm" --variable=geometry:"columnsep=10mm"```
